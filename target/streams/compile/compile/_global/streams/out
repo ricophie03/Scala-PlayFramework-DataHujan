@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0mD:\3Download (Browser)\play-hello\app\views\index.scala.html:9:35: value Versioned is not a member of controllers.ReverseAssets[0m
+[0m[[0m[31merror[0m] [0m[0mdid you mean versioned?[0m
+[0m[[0m[31merror[0m] [0m[0m      <script src='@routes.Assets.Versioned("/javascripts/jquery.min.js")' type="text/javascript"></script>[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
